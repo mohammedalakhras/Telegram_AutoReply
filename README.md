@@ -1,13 +1,8 @@
 
-<div align="center">
-	<a href="https://huggingface.co/spaces/MohammedAlakhras/Telegram_API?duplicate=true">
-		<img style="vertical-align:middle;" alt="Hugging Face Space " src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.svg" width="100" height="100" style="max-width: 100%;" />
-		<p> Dublicate Hugging Face Space </p>
-	</a>
-</div>
 
 
-# Telegram_AutoReply With Free Hosting
+
+# Telegram_AutoReply 
 This repository on GitHub is a script to auto reply messages on Telegram account  with free hosting
 
 ## Overview
@@ -41,9 +36,9 @@ The "Telegram_AutoReply" project is a script hosted on GitHub that enables autom
   ```
   
   
-  ### 5. run `init_session.py` 
+  ### 5. run `app.py` 
   ```bash
-  python init_session.py
+  python app.py
   ```
   then you need to enter your phone and you will recive code to authentication.
   
@@ -55,31 +50,4 @@ The "Telegram_AutoReply" project is a script hosted on GitHub that enables autom
   ### 6. define environment variable 
   that will be used in  `init_session.py` file : `apiID` , `apiHash` , `phone`, `username` , `sessionUrlFile` 
   
-  
-## Free Huggingface Hosting
-  ### You Use this Direct Duplicate Space Link :
- <div align="center">
-	<a href="https://huggingface.co/spaces/MohammedAlakhras/Telegram_API?duplicate=true">
-		<img style="vertical-align:middle;" alt="Hugging Face Space " src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.svg" width="100" height="100" style="max-width: 100%;" />
-		<p> Dublicate Hugging Face Space </p>
-	</a>
-</div>
-
-  you can host this code as `Gradio App` on [Huggingface.co](http://huggingface.co/)
-  Sure, here are the steps to create a Gradio app with Hugging Face:
-  Sure, here are the steps to create a new Gradio space on Hugging Face:
-  
-  1. **Go to Hugging Face Spaces**: Navigate to [Hugging Face Spaces](https://huggingface.co/spaces) in your web browser.
-  
-  2. **Create a New Space**: Click on the 'New Space' button on the top right corner of the page.
-  
-  3. **Select Gradio as the SDK**: In the 'New Space' form, select 'Gradio' from the 'SDK' dropdown menu.
-  
-  4. **Fill in the Details**: Provide a name for your space, and optionally a description. You can also choose whether to make your space public or private.
-     
-  5. **Add Your Gradio App**: Now you can add your Gradio app to this space by uploading `requirements.txt`,`anon.session` and`app.py` in the root directory of your space, and add secrect environment variables:  `apiID` , `apiHash` , `phone`, `username` , `sessionUrlFile`  inside your Space.
-  
-  6. **Dont Forget `username` variable must be like this from :`@Mohammed_Alakhras`**.
-
-
 ###  Good Luck! 
