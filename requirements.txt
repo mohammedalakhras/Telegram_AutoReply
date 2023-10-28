@@ -4,4 +4,3 @@ pysocks
 socks
 requests
 python-requests
-python3-requests
