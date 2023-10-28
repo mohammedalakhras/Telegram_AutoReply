@@ -3,4 +3,4 @@ asyncio
 pysocks
 socks
 requests
-python-requests
+
