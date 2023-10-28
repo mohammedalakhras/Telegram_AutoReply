@@ -83,4 +83,4 @@ async def main():
     #    client.loop.run_until_complete(main())
 
 if __name__ == '__main__':
-    main()
+    asyncio.run(main())
