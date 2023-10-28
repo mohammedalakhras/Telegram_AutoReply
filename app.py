@@ -5,6 +5,7 @@ import socks
 import time
 import os
 import requests
+import asyncio
 
 def download_file(url, filename):
     response = requests.get(url)
