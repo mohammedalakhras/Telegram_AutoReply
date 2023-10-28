@@ -1,4 +1,4 @@
-import gradio as gr
+#import gradio as gr
 from telethon.sync import TelegramClient, events
 import datetime
 import socks
